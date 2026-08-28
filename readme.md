@@ -13,9 +13,8 @@
 Mission 3 in Moodle 319 fertig gemacht. Dann habe ich angefangen einen Notenberechner zu programmieren. Mein Notenberechner kann 3 Noten berechnen bis jetzt und sagt dir den durchschnitt davon. 
 ## 6.9.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Ich möchte bis mission 6 in Moodle 319 fertig sein
+- [ ] Ich möchte ein zweites Fach oder mehr zu meinen Notenrechner hinzufügen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
