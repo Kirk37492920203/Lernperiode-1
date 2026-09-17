@@ -25,12 +25,12 @@ Code von Notenrechner:
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 11.9.2026
-- [ ] Ich möchte bis Mission 10 im modul 319 fertig sein
+- [ ] Ich möchte bis Mission 9 im modul 319 fertig sein
 - [ ] Ich möchte einstellen, dass man bei meinen Notenrechner nur Noten 1-6 eingeben kann
 - [ ] Ich möchte mehr über Bool lernen und wie man es einsetzt
 - [ ] Ich möchte Moodle 431 weitermachen
 
-      Heute bin ich nur bis mission 9 fertig geworden. Ich bin bei moodle 431  mit 1717 1718 und 1719 fertig geworden. Bool nutzt man für True oder false Aussagen beim programmieren. Den Notenrechner mach ich noch als Hausaufgabe bis nächste woche.
+      Heute bin ich bis mission 9 fertig geworden. Ich bin bei moodle 431  mit 1717 1718 und 1719 fertig geworden. Bool nutzt man für True oder false Aussagen beim programmieren. Den Notenrechner mach ich noch als Hausaufgabe bis nächste woche.
 
 - [ ] Ich möchte einstellen, dass man bei meinen Notenrechner  die 3 besten Noten sehen kann
 - [ ] Ich möchte Moodle 431 weitermachen
