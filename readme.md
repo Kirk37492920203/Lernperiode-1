@@ -1,6 +1,13 @@
 # Lern-Periode 1
 
 28.8 bis ?
+## Finales Projekt
+Das Programm fragt die Noten von Informatik und Sport ab und berechnet den Durchschnitt sowie den Gesamtschnitt.
+Es prüft, dass nur Noten zwischen 1 und 6 eingegeben werden können.
+Speziell ist, dass es am Ende sagt, ob man bestanden hat und welches Fach besser ist.
+<img width="1010" height="438" alt="Aufzeichnung 2026-09-18 162007" src="https://github.com/user-attachments/assets/ff1df1e7-5717-43f5-8e18-734a53b41ebc" />
+
+
 
 ## Grob-Planung
 
