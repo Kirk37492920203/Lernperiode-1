@@ -50,5 +50,6 @@ Code von Notenrechner:
 - [ ] Hausaufgaben:
 Ich habe in meinen Notenrechner programmiert, das man nur zahlen 1-6 eingeben kann, wenn es drüber ist kommt error. Den Neuen Code habe ich hochgeladen.
 
-     
+      ## 18.9.2026
+Ich habe heute meinen Projekt fertiggestellt. Ich habe heute programmiert das ich nur Zahlen 1-6 eingeben kann und das es die beste Note sagt.
 
