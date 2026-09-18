@@ -34,6 +34,8 @@ Code von Notenrechner:
 
 - [ ] Ich möchte einstellen, dass man bei meinen Notenrechner  die 3 besten Noten sehen kann
 - [ ] Ich möchte Moodle 431 weitermachen
+- [ ] Hausaufgaben:
+Ich habe in meinen Notenrechner programmiert, das man nur zahlen 1-6 eingeben kann, wenn es drüber ist kommt error. Den Neuen Code habe ich hochgeladen.
 
      
 
