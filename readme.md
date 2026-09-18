@@ -7,6 +7,12 @@ Es prüft, dass nur Noten zwischen 1 und 6 eingegeben werden können.
 Speziell ist, dass es am Ende sagt, ob man bestanden hat und welches Fach besser ist.
 <img width="1010" height="438" alt="Aufzeichnung 2026-09-18 162007" src="https://github.com/user-attachments/assets/ff1df1e7-5717-43f5-8e18-734a53b41ebc" />
 
+## Reflektion
+
+In dieser Lern-Periode habe ich zuerst an Moodle 319 gearbeitet und bin bis Mission 9 gekommen. Ich habe auch an Moodle 431 gearbeitet, aber nicht viel. Dannach habe ich an meinem Notenberechner gearbeitet. Am Anfang konnte mein Programm nur drei Noten berechnen und den Durchschnitt anzeigen. Dannach habe ich noch Sport, den Gesamtschnitt und die Anzeige, ob man bestanden hat hinzugefügt.
+Am Anfang hatte ich noch Probleme mit dem Programmieren. Besonders die Überprüfung, dass man nur Noten von 1 bis 6 eingeben kann, war nicht so einfach. Ich habe es aber Schritt für Schritt geschafft. Ich habe auch gelernt, wie man `bool` für True und False benutzt.
+Ich habe gemerkt, dass es besser ist, wenn ich mein Programm Stück für Stück mache und nicht alles auf einmal. Am Ende konnte mein Programm die Noten berechnen, falsche Noten erkennen und sagen, welches Fach besser ist. Ich habe in dieser Lern-Periode viel über C# gelernt und bin beim Programmieren sicherer geworden.
+
 
 
 ## Grob-Planung
